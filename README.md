@@ -10,3 +10,6 @@ This is my study of Python Django based on https://docs.djangoproject.com/en/5.1
   - IOC
 - [ ] file upload
 - [ ] permission control
+- [ ] Put on Nextjs frontent
+- [ ] Pipeline/deployment/kubenetes
+  
