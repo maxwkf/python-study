@@ -12,4 +12,7 @@ This is my study of Python Django based on https://docs.djangoproject.com/en/5.1
 - [ ] permission control
 - [ ] Put on Nextjs frontent
 - [ ] Pipeline/deployment/kubenetes
+
+# Note
+https://docs.djangoproject.com/en/5.1/intro/tutorial02/#playing-with-the-api
   
