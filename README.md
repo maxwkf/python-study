@@ -1,3 +1,12 @@
+# How to run this program
+https://docs.djangoproject.com/en/5.1/howto/windows/
+
+1. Install Python in Windows (https://www.python.org/downloads/windows/).  Download and install from there.
+2. Install Django in Windows (https://docs.djangoproject.com/en/5.1/howto/windows/).  Run the command `py -m pip install Django`
+3. `py manage.py runserver`
+4. Goes to `http://127.0.0.1:8000/polls/`
+
+
 # python-study
 This is my study of Python Django based on https://docs.djangoproject.com/en/5.1/
 
