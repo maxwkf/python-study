@@ -6,6 +6,9 @@ https://docs.djangoproject.com/en/5.1/howto/windows/
 3. `py manage.py runserver`
 4. Goes to `http://127.0.0.1:8000/polls/`
 
+# admin
+username: admin
+Password: the T password
 
 # python-study
 This is my study of Python Django based on https://docs.djangoproject.com/en/5.1/
@@ -27,5 +30,7 @@ https://docs.djangoproject.com/en/5.1/intro/tutorial02/#playing-with-the-api
 https://docs.djangoproject.com/en/5.1/intro/tutorial02/#playing-with-the-api:~:text=so%20far.%0A%3E%3E%3E-,q.choice_set.all(),-%3CQuerySet%20%5B%5D%3E%0A%0A%23%20Create
 https://docs.djangoproject.com/en/5.1/intro/tutorial02/#enter-the-admin-site
 https://docs.djangoproject.com/en/5.1/intro/tutorial04/
+https://docs.djangoproject.com/en/5.1/intro/tutorial06/
+https://docs.djangoproject.com/en/5.1/intro/tutorial07/
 
 https://www.w3schools.com/django/django_ref_field_lookups.php
