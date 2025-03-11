@@ -32,5 +32,7 @@ https://docs.djangoproject.com/en/5.1/intro/tutorial02/#enter-the-admin-site
 https://docs.djangoproject.com/en/5.1/intro/tutorial04/
 https://docs.djangoproject.com/en/5.1/intro/tutorial06/
 https://docs.djangoproject.com/en/5.1/intro/tutorial07/
+https://docs.djangoproject.com/en/5.1/intro/tutorial08/
+https://docs.djangoproject.com/en/5.1/intro/tutorial08/#getting-help-from-others
 
 https://www.w3schools.com/django/django_ref_field_lookups.php
